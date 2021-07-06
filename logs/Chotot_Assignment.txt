@@ -1,0 +1,7 @@
+[2021-07-06 08:32:19,125] [INFO ] [chotot.login.Login_via_Mobile_Number] - Login 01-Precondition 01: Click on '??ng Nh?p' button.
+[2021-07-06 08:32:22,732] [INFO ] [chotot.login.Login_via_Mobile_Number] - Login 01-Precondition 02: Login page is displayed
+[2021-07-06 08:32:22,804] [INFO ] [chotot.login.Login_via_Mobile_Number] -  -------------------------- PASSED -------------------------- 
+[2021-07-06 08:32:22,812] [INFO ] [chotot.login.Login_via_Mobile_Number] - Login 02 - Step 01: Input data into 'Nh?p S?T c?a b?n': luanNguyen
+[2021-07-06 08:32:23,010] [INFO ] [chotot.login.Login_via_Mobile_Number] - Login 02 - Step 02: Input data into 'Nh?p m?t kh?u c?a b?n': 1234567
+[2021-07-06 08:32:23,176] [INFO ] [chotot.login.Login_via_Mobile_Number] - Login 02 - Step 03: Verify the error message of the mobile phone is displayed: Không tìm th?y thông tin ng??i dùng.
+[2021-07-06 08:32:24,116] [INFO ] [chotot.login.Login_via_Mobile_Number] -  -------------------------- PASSED -------------------------- 

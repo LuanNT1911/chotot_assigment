@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="fail" name="Chotot Assignment" thread-cout="3">
+    
+    <parameter name="url" value="https://www.chotot.com"/>
+    <test name="Run on Chrome">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+        	<class name="chotot.login.Login_via_Mobile_Number"/>
+        </classes>
+    </test> 
+</suite> <!-- Suite -->
