@@ -17,4 +17,5 @@ On 'Run Configurations' pop-up,
 
 # Test Scenario
 1. Login via Mobile Number
+
 1.1 TC: Login with invalid mobile number and valid password
